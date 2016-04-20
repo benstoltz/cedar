@@ -101,7 +101,7 @@
   "homepage": "https://github.com/vega/vega#readme",
   "_id": "vega@2.0.6",
   "_shasum": "b68d2db7cf1c97be29ff56b036fb54bc2c237f19",
-  "_from": "vega@2.0.6",
+  "_from": "vega@>=2.0.1 <2.1.0",
   "_npmVersion": "2.10.1",
   "_nodeVersion": "0.12.4",
   "_npmUser": {
@@ -110,7 +110,7 @@
   },
   "dist": {
     "shasum": "b68d2db7cf1c97be29ff56b036fb54bc2c237f19",
-    "tarball": "http://registry.npmjs.org/vega/-/vega-2.0.6.tgz"
+    "tarball": "https://registry.npmjs.org/vega/-/vega-2.0.6.tgz"
   },
   "maintainers": [
     {
